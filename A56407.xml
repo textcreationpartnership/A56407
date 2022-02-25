@@ -1,0 +1,308 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The redeemer's friend, or, A sermon on John II, part of the 11th verse ... preached at the funeral of ... Mr. Samuel Fairclough, who departed this life, December 31, 1691 by Nath. Parkhurst ...</title>
+            <author>Parkhurst, Nathaniel, 1643-1707.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1692</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 36 KB of XML-encoded text transcribed from 17 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A56407</idno>
+            <idno type="STC">Wing P490</idno>
+            <idno type="STC">ESTC R479</idno>
+            <idno type="EEBO-CITATION">12574685</idno>
+            <idno type="OCLC">ocm 12574685</idno>
+            <idno type="VID">63541</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A56407)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 63541)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 327:6)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The redeemer's friend, or, A sermon on John II, part of the 11th verse ... preached at the funeral of ... Mr. Samuel Fairclough, who departed this life, December 31, 1691 by Nath. Parkhurst ...</title>
+                  <author>Parkhurst, Nathaniel, 1643-1707.</author>
+               </titleStmt>
+               <extent>[8], 24 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by J.D. for Nathanael Ranew ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1692.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Faireclough, Samuel, 1625?-1691.</term>
+               <term>Bible. --  N.T. --  John II, 11 --  Sermons.</term>
+               <term>Funeral sermons.</term>
+               <term>Sermons, English.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-02</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2011-02</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:63541:1" rendition="simple:additions"/>
+            <p>THE <hi>Redeemer's Friend;</hi> OR, A SERMON On <hi>John</hi> 11. part of the 11th Verſe, (With ſome Additions) Preached at the Funeral of the Reverend, Lear<g ref="char:EOLhyphen"/>ned, and Faithful Miniſter of the Goſpel, Mr. <hi>SAM<g ref="char:V">Ʋ</g>EL FAIRCLO<g ref="char:V">Ʋ</g>GH,</hi> Who departed this Life, <hi>December</hi> 31, 1691.</p>
+            <p>By <hi>NATH. PARKHURST,</hi> M. A. and Vicar of <hi>Yoxford, Suff.</hi>
+            </p>
+            <q>
+               <bibl>ACTS 8.2.</bibl>
+               <p>Devout Men carried <hi>Stephen</hi> to his Burial, and made great Lamentation.</p>
+            </q>
+            <q>
+               <l>Multis ille bonis flebilis occidit;</l>
+               <l>Paucis flebilior quam mihi.</l>
+               <bibl>
+                  <hi>Horat. Carm. lib.</hi> 1. <hi>Ode</hi> 24.</bibl>
+            </q>
+            <q>
+               <l>At poſt nubile Phoebus,</l>
+               <l>Qui occidit ſolummodo dormit.</l>
+               <l>Et qui dum vixit Chriſtum dilexit,</l>
+               <l>Dormit Redemptoris Amicus.</l>
+            </q>
+            <p>
+               <hi>London,</hi> Printed by <hi>J. D.</hi> for <hi>Nathanael Ranew,</hi> at the King's Arms in St. <hi>Paul</hi>'s Church-Yard. 1692.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:63541:2"/>
+            <pb facs="tcp:63541:2"/>
+            <head>To the Reverend <hi>Mr.</hi> JOHN FAIRCLOUGH, AND <hi>Mr.</hi> GEORGE JONES, With their Religious Conſorts; AND TO <hi>Mrs.</hi> MARTHA SHUTE; The Brethren and Siſters of the Deceaſed Mr. <hi>SAM<g ref="char:V">Ʋ</g>EL FAIRCLO<g ref="char:V">Ʋ</g>GH.</hi>
+            </head>
+            <opener>
+               <salute>My much Honoured Friends,</salute>
+            </opener>
+            <p>IF the Printing of this <hi>Sermon</hi> needs an Apology, you must favour me with a Defence, at whoſe Request I have preached and publiſhed it.</p>
+            <p>The Deſign of the Diſcourſe is partly to awaken careleſs Sinners, (if any ſuch vouchſafe it a reading) by endeavouring
+<pb facs="tcp:63541:3"/>to ruine their Hopes of Favour with the <hi>Redeemer,</hi> while they perſiſt in Ways of <g ref="char:V">Ʋ</g>ngodlineſs, refuſing the Terms of the Goſpel.</p>
+            <p>And there being another ſort of Men among us, not far from the Kingdom of God, almoſt Chriſtians, of fair Morals, ſeeking to enter Heaven, but not appre<g ref="char:EOLhyphen"/>hending the right way of attaining it; I earneſtly deſire this <hi>Sermon</hi> may be Eye<g ref="char:EOLhyphen"/>ſalve to theſe <hi>Laodiceans,</hi> who court So<g ref="char:EOLhyphen"/>briety and Forms, and decline Zeal, that their <g ref="char:V">Ʋ</g>nderſtandings may be cleared: for the Light in them is Darkneſs.</p>
+            <p>May theſe perceive that the Morals of Heathens philoſophiz'd, and the Pro<g ref="char:EOLhyphen"/>feſſion of the Chriſtian Doctrine put toge<g ref="char:EOLhyphen"/>ther, do both come ſhort of Godlineſs, and that renewing of Mind that qualifies Men for everlaſting Salvation.</p>
+            <p>And as for Perſons of real Godlineſs, I hope what I have ſaid, may encourage
+<pb facs="tcp:63541:3"/>their Progreſs in Holineſs, and miniſter to their Conſolation. And that theſe may be the Succeſſes of what you have drawn into publick View, let your Prayers at<g ref="char:EOLhyphen"/>tend its going forth, that it may proſper, the Lord wording with it.</p>
+            <p>But whatever may be the Fruit of this Inſtruction, the Occaſion of it hath indu<g ref="char:EOLhyphen"/>ced no little Sadneſs upon your Hearts, being deprived of the Converſation of an endeared Brother. And you must be al<g ref="char:EOLhyphen"/>lowed to deplore ſo great and ſenſible a Loſs. For he that was dear to his Friends and Acquaintance, must have been much more ſo to his Relations, and Relations that knew what value to put upon the Grace and Learning, Religion and Breeding, Piety and Temper conſpicuous in him.</p>
+            <p>To me the ſight of Him was a Plea<g ref="char:EOLhyphen"/>ſure, and his Converſion always an En<g ref="char:EOLhyphen"/>tertainment: And therefore I cannot wonder if you are in danger of grieving
+<pb facs="tcp:63541:4"/>over-much. But beware you paſs not the Bounds God ſets to your Reſentments, and that your Mournings may not over<g ref="char:EOLhyphen"/>flow the Banks of Patience, Submiſſion, and Reſignation to the Divine Will.</p>
+            <p>Remember what <hi>Job</hi> ſaid in a very mournful Caſe, <hi>Shall we receive Good at the Hand of the Lord, and not Evil?</hi> You have received much Good from his Hand; your Family hath had a great Portion of Divine Favours; God hath made it an eminent Nurſery of ac<g ref="char:EOLhyphen"/>compliſhed Preachers, who have led the Way to Heaven, and been inſtrumental for much Good in the Church of God. And many Temporal Bleſſings hath he alſo heaped upon you. And therefore you must the more ſofily lament your Loſs.</p>
+            <p>And as a mighty Mitigation of your Grievance, conſider where your abſent Brother is, and in what Company, and how employed! He is in Paradiſe, in the
+<pb facs="tcp:63541:4"/>Heaven of Heavens, in the Company of <hi>the Patriarchs, Prophets, Apoſtles, Martyrs, and Spirits of juſt Men made perfect, with Angels, and with Chriſt,</hi> praiſing, loving, enjoying, and delighting in God.</p>
+            <p>Let theſe Things qualify your Griefs; and imitating him in his Pattern, rejoice in hope of meeting him in the glorious Manſions above. And if this ſhort Mo<g ref="char:EOLhyphen"/>nition may contribute, through Divine Bleſſing, to your Conſolation under this Cloud, it will he no ſmall Satisfaction to him who is</p>
+            <closer>
+               <signed>Your faithful Friend and Servant, <hi>NATH. PARKHURST.</hi>
+               </signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb facs="tcp:63541:5"/>
+            <pb n="1" facs="tcp:63541:5"/>
+            <head>A SERMON Preached at the FUNERAL OF Mr. <hi>SAM<g ref="char:V">Ʋ</g>EL FAIRCLO<g ref="char:V">Ʋ</g>GH.</hi>
+            </head>
+            <epigraph>
+               <q>
+                  <bibl>John 11. part of the 11th Verſe.</bibl>
+                  <p>
+                     <hi>Our Friend</hi> Lazarus <hi>ſleepeth.</hi>
+                  </p>
+               </q>
+            </epigraph>
+            <p>THeſe Words were ſpoken by our Bleſſed Lord and Saviour to his Diſciples, and at firſt not underſtood, until he had explain'd them in <hi>ver.</hi> 14. where he ſaid plain<g ref="char:EOLhyphen"/>ly, <hi>Lazarus is dead:</hi> And this was no new way of expreſſing Death; for it very ordinarily oc<g ref="char:EOLhyphen"/>curs in the Stile of the holy Scriptures: When the Kings of <hi>Judah</hi> died, they are ſaid to <hi>ſleep with their Fathers:</hi> And <hi>they that die in the Lord,</hi>
+               <pb n="2" facs="tcp:63541:6"/>are ſaid to <hi>ſleep in Jeſus.</hi> And even in Heathen Authors, Sleep is put frequently for Death; <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> ſignifies the Dead, and <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> and <hi>Dor<gap reason="illegible" resp="#UOM" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>orium</hi> are uſed not only for a Sleeping, but alſo for a Burying-Place.</p>
+            <p>And concerning the Perſon here ſpoken of, beſides his Name, we have in this Chapter his Relations; he was the Brother of <hi>Mary</hi> and <hi>Martha;</hi> and an Intimation of the Eſteem and Affection our Lord had for him, <hi>ver.</hi> 5. <hi>Now Jeſus loved</hi> Martha, <hi>and her Siſter, and</hi> Lazarus. Whereupon, we may fully conclude him a true Diſciple of Chriſt. And accordingly may from the Words obſerve:</p>
+            <list>
+               <item>I. That true Diſciples of Chriſt, or ſincere Chriſtians, are honoured with the Title of Chriſt's Friends.</item>
+               <item>II. That ſincere Chriſtians, tho honoured with the Title of Chriſt's Friends, yet are not priviledged from dying.</item>
+               <item>III. That tho they are not priviledged from dying, yet Death is qualified and ſoftned to them: to them Death is a Sleep, or as a Sleep.</item>
+            </list>
+            <p n="1">I. Obſerve, That ſincere Chriſtians are ho<g ref="char:EOLhyphen"/>noured with the Title of Chriſt's Friends. So
+<pb n="3" facs="tcp:63541:6"/>
+               <hi>Lazarus</hi> is called in the Text; and all the Diſci<g ref="char:EOLhyphen"/>ples together, and all his myſtical Members, are thus dignified in <hi>John</hi> 15.13, 14, 15.<note place="margin">John 15.13, 14, 15.</note> 
+               <hi>Greater Love hath no Man than this, that a Man lay down his Life for his Friends. Ye are my Friends, if ye do whatever I command you. Henceforth I call you not Servants, but I have called you Friends.</hi> Thus <hi>Abraham</hi> alſo was honoured, being called <hi>the Friend of God.</hi> And all his ſpiritual Children, <hi>i. e.</hi> ſincere Believers, are Partakers of the like Honour and Priviledg.</p>
+            <p>And here it will be requiſite, 1ſt. To give ſome account of ſincere Chriſtians, that each of us may make a Judgment of our ſelves. And <hi>2dly.</hi> To ſhew what are the Tokens and Inſtan<g ref="char:EOLhyphen"/>ces of Chriſt's Friendſhip towards ſincere Chri<g ref="char:EOLhyphen"/>ſtians, that it may appear not a Rhetorical Sound of Words, but a Reality that they are the Friends of Chriſt. And,</p>
+            <p>
+               <hi>Firſt,</hi> (That the Diſcourſe may not walk in Darkneſs) I ſhall give ſome account of ſincere Chriſtians in theſe following things.</p>
+            <p n="1">1. Sincere Chriſtians are few in Number, comparatively few. Chriſt's Flock is a little Flock. <hi>Strait is the Gate, and narrow the Way that leads to Life, and few there be that find it.</hi> If we
+<pb n="4" facs="tcp:63541:7"/>ſubſtract the Numbers of the Ignorant, Pro<g ref="char:EOLhyphen"/>phane, Worldly-minded and Formal, the Re<g ref="char:EOLhyphen"/>mainder is comparatively ſmall. And thus it hath been in all former Ages. Evermore the Number of the Faithful hath been little, com<g ref="char:EOLhyphen"/>pared with the Ungodly. In the Days of <hi>No<g ref="char:EOLhyphen"/>ah,</hi> all Fleſh had corrupted their Way: Very few in the World had then any ſerious regard to God; He only and his Family eſcaped the De<g ref="char:EOLhyphen"/>luge. In <hi>David</hi>'s time,<note place="margin">Pſal. 13.3.</note> all, <hi>i. e.</hi> the moſt, were gone aſide, <hi>Pſal.</hi> 13.3. In the times of <hi>Elias,</hi> ſeven thouſand only in <hi>Iſrael</hi> kept themſelves from the Pollution of Idolatry.<note place="margin">Rom. 11.4.</note> In the times of <hi>Jeremiah,</hi> the common People were general<g ref="char:EOLhyphen"/>ly poor and fooliſh, and knew not the Way of the Lord: and the Great Men had broken the Yoak, and burſt the Bonds in ſunder. In our bleſſed Saviour's time upon Earth, the Magi<g ref="char:EOLhyphen"/>ſtrates and Miniſters of the Jewiſh Church, and the People were generally corrupt and wicked. In the Apoſtles time, notwithſtanding the great Succeſs of the Goſpel, yet the Faithful remain'd in compariſon few, ſo that there were not Friends enough to preſerve the Apoſtles from violent Death. And this Age ſurely is not much better than the former Ages of Chriſtianity, or thoſe under, the Moſaical Diſpenſation. The
+<pb n="5" facs="tcp:63541:7"/>Number of good Men is ſtill ſmall. I ſhould be glad to find an Error in the Computation, but am much afraid it is too true, that neither in our own, or any other Reformed Church, can be ſhewed a Community of the quantity of a Village, wherein the Majority are ſincere in the Profeſſion of Chriſtianity. Wherefore (to uſe the ſolemn Words of the great Apoſtle, <hi>Eph.</hi> 4.17.) <hi>I ſay and teſtify in the Lord,</hi>
+               <note place="margin">Epheſ. 4.17.</note> that they are in a periſhing Condition, in Paths leading to the Chambers of everlaſting Death, who fol<g ref="char:EOLhyphen"/>low the Generality of this preſent Generation.</p>
+            <p n="2">2. Sincere Chriſtians are, in the Family of the World, generally of the younger Houſe, inferiour in worldly Reſpects. <hi>Not many wiſe Men after the Fleſh, not many mighty,</hi>
+               <note place="margin">1 Cor. 1.26.</note> 
+               <hi>not many no<g ref="char:EOLhyphen"/>ble are called,</hi> 1 Cor. 1.26. Some Princes, ſome Nobles, ſome Perſons of Quality, ſome Men of Parts and Learning are among the effe<g ref="char:EOLhyphen"/>ctually called: But the Inſtances are rave. And this was myſtically repreſented in the Advance<g ref="char:EOLhyphen"/>ment of <hi>Judah, Ephraim, David</hi> and <hi>Solomon,</hi> who were all younger Brothers in their ſeveral Fa<g ref="char:EOLhyphen"/>milies. Commonly. Men great in Place and Power, in Wealth and Honour, in Wit and Parts, take the wrong Way, deſpiſe Religion, and neglect Godlineſs. Thus it was in our Sa<g ref="char:EOLhyphen"/>viour's
+<pb n="6" facs="tcp:63541:8"/>time; the Jewiſh <hi>Sanhedrim,</hi> and al<g ref="char:EOLhyphen"/>moſt all Perſons of Name and Authority in that Church, oppoſed the believing Jeſus was the Chriſt. And accordingly it was laid as an Objection againſt receiving him and his Do<g ref="char:EOLhyphen"/>ctrine, that the Men of Reputation did not acknowledg him:<note place="margin">John 7.48.</note> 
+               <hi>Have any of the Rulers, or of the Phariſees believed in him?</hi> John 7.48.</p>
+            <p n="3">3. Sincere Chriſtians, as they are few, and commonly inferiour in the World, ſo likewiſe they are a ſcattered and diſperſed Generation, not in a Body together, but as it were, one of a City, and two of a Tribe, mix'd with others, till Death makes the Separation. As our Lord, in reſpect of the kind of his Death, was num<g ref="char:EOLhyphen"/>bred with Tranſgreſſors; ſo in all Civil Re<g ref="char:EOLhyphen"/>ſpects theſe are mix'd with the Wicked, as Sub<g ref="char:EOLhyphen"/>jects of the ſame Prince, Natives of the ſame Country, Dwellers in the ſame City, Mem<g ref="char:EOLhyphen"/>bers of the ſame Family, and it may be ſitting at the ſame Table. The Divine Wiſdom per<g ref="char:EOLhyphen"/>mits them not to be ſeparated in this Life. The Tares muſt grow with the Wheat, till the con<g ref="char:EOLhyphen"/>ſummation of all Things.</p>
+            <p n="4">4. Sincere Chriſtians, tho thus mixed with the Ungodly, are yet very differing from them. They have another Father, another Birth, ano<g ref="char:EOLhyphen"/>ther
+<pb n="7" facs="tcp:63541:8"/>Country, another Spirit, another Practice, and live another Life. They are born of God, Citizens of Heaven, refined in their Spirits, ho<g ref="char:EOLhyphen"/>ly in Practice, and live a Life of Faith. They are in the World, but are not of it, having their Converſation in Heaven.</p>
+            <p>They have differing Employments, Affairs that other Men neglect, other Joys and Sorrows, Complaints, and Fears, and Hopes, than the Men of the World have, and Meat to eat the World knows not of. They are new Crea<g ref="char:EOLhyphen"/>tures, very differing from the Men of this World, and from what themſelves once were.</p>
+            <p n="5">5. (To proceed to their diſtinctive Chara<g ref="char:EOLhyphen"/>cter) Sincere Chriſtians are Perſons of ſome conſiderable knowledg of God, Chriſt and the Holy Spirit; of the Fall of Man, and the de<g ref="char:EOLhyphen"/>pravation of Humane Nature; of the Covenant of Grace, of God in Chriſt (as a Sacrifice and Mediator) reconciling Sinners to himſelf; of the Doctrines, Precepts, Promiſes and Threat<g ref="char:EOLhyphen"/>nings in the Scriptures. They are alſo Peni<g ref="char:EOLhyphen"/>tents, weary and heavy-laden under (the Bur<g ref="char:EOLhyphen"/>den of their Sins, ſick of their Offences and Tranſgreſſions of the Divine Laws, poor and contrite in Spirit. And they live by Faith in Chriſt, with entire dependance upon him, as
+<pb n="8" facs="tcp:63541:9"/>a Prophet, Prieſt and King, as a Propitiation for Sin, and as an Advocate with the Father. And they give themſelves to Prayer, pouring out not only Words, but their Hearts to God. And in the aſſiſtance of the Spirit of God, they live ſoberly, righteouſly and godly, crucifying the Fleſh, ſtriving againſt Sin, reſiſting Temp<g ref="char:EOLhyphen"/>tations, delighting in the Law of God after the inner Man; oppoſing the Law in their Members, that rebels againſt the Law of their Mind; endeavouring to have reſpect to all God's Commands, and that none of them may be grievous; ſtudying to walk worthy of God unto all pleaſing, and to adorn the Doctrine of God their Saviour in all things; and humbling themſelves for their Infirmities, and coming ſhort of any Duty.</p>
+            <p>
+               <hi>Secondly,</hi> I ſhall ſhew what are the Tokens and Inſtances of the <hi>Redeemer's</hi> Friendſhip to<g ref="char:EOLhyphen"/>ward ſincere Chriſtians. And,</p>
+            <p n="1">1. He converſes with them, meets them in ſacred Ordinances; and where-ever two or three are gathered together in his Name, he is in the midſt of them; and in ſecret Places in Prayer and Meditation, manifeſts himſelf to them, encouraging, ſtrengthening them, and
+<pb n="9" facs="tcp:63541:9"/>ſometimes aſſuring them of his Love. And hereby he accompliſhes that Promiſe in <hi>Revel.</hi> 3.20. <hi>If any Man hear my Voice,</hi>
+               <note place="margin">Revel. 3.20.</note> 
+               <hi>and open the Door, I will come in to him, and will ſup with him, and he with me.</hi>
+            </p>
+            <p n="2">2. Chriſt doth great things for them; He waſhes them from their Sins in his own Blood, clothes them with the Robes of his unſpotted Righteouſneſs, appears in the Preſence of God for them, carries their Names upon his Breaſt in the true Holy of Holies, juſtifies their Per<g ref="char:EOLhyphen"/>ſons, preſents their Prayers to his and their Fa<g ref="char:EOLhyphen"/>ther, perfumes all their weak Services and im<g ref="char:EOLhyphen"/>perfect Offerings by his prevailing perpetual In<g ref="char:EOLhyphen"/>terceſſion, and ſo makes them grateful to God, and a ſweet-ſmelling Savour.</p>
+            <p n="3">3. Chriſt inveſts them with glorious Privi<g ref="char:EOLhyphen"/>ledges;<note place="margin">John 1.12.</note> he <hi>gives them Power to become the Children of God;</hi>
+               <note place="margin">Revel. 1.6.</note> makes <hi>them Kings and Prieſts to God and his Father;</hi> renders all things ſubſervient to them, even the holy Angels, <hi>who are miniſtring Spirits ſent forth for the Good of them that are Heirs of Sal<g ref="char:EOLhyphen"/>vation.</hi>
+               <note place="margin">Heb. 1.14.</note> And he makes all things to work toge<g ref="char:EOLhyphen"/>ther for their Good;<note place="margin">Rom. 8.</note> for their Afflictions refine them, and work in them the peaceable Fruits of Righteouſneſs. Their Temptations exerciſe, prove and ſtrengthen their Graces; their Infir<g ref="char:EOLhyphen"/>mities
+<pb n="10" facs="tcp:63541:10"/>lead them to much Humility and
+depen<g ref="char:EOLhyphen"/>dance upon God; their Falls and Miſcarriages (being recover'd by Repentance) make them more diligent and watchful.</p>
+            <p n="4">4. Chriſt will in the end bring them near to himſelf,<note place="margin">John 17.24.</note> 
+               <hi>that they may be with him,</hi> John 17.24. and will advance them (whatever that means) to <hi>a ſitting with him in his Throne,</hi>
+               <note place="margin">Revel. 3.21.</note> Rev. 3.21. He will render them in a manner equal with the Angels, and like them they ſhall live the Life of Spirits, neither eating nor drinking, nor build<g ref="char:EOLhyphen"/>ing nor planting, nor marrying or being given in Marriage. And they ſhall live and reign for ever with him in Heaven, and eat of the Tree in the midſt of the Paradiſe of God, yielding moſt delightful, intellectual and ſpiritual Food. They ſhall be as Pillars in the Temple above, eſtabliſhed in Happineſs, and Ornaments in that Place of Glory. They ſhall have the Viſion of God, <hi>i. e.</hi> the utmoſt knowledg of him, that humane Faculties are capable of in their full Strength. They ſhall have everlaſting Joy, and drink of Rivers of holy Pleaſures at God's Right Hand for evermore. The Lamb that is in the midſt of the Throne, ſhall lead them to theſe Fountains of living Waters,<note place="margin">Revel. 7.17.</note> 
+               <hi>Revel.</hi> 7.17. Theſe are ſome Inſtances of Chriſt's Friendſhip
+<pb n="11" facs="tcp:63541:10"/>toward ſerious Believers, ſufficiently demon<g ref="char:EOLhyphen"/>ſtrating that they are in reality his Friends.</p>
+            <p n="2">II. Obſerve, That ſincere Chriſtians are ho<g ref="char:EOLhyphen"/>noured with the Title of Chriſt's Friends, yet are not priviledged from dying. How holy ſoe<g ref="char:EOLhyphen"/>ver any are, how uſeful ſoever, how much ſoe<g ref="char:EOLhyphen"/>ver in favour with God, and endeared to the Redeemer, yet Death comes upon them, and lays them aſleep. The beſt of Men muſt die. <hi>Abraham</hi> is dead, and the Prophets are dead; on<g ref="char:EOLhyphen"/>ly <hi>Enoch</hi> and <hi>Elias</hi> found another Paſſage to the heavenly Manſions; and the laſt Generation ſhall not die, but be changed, 1 <hi>Cor.</hi> 15.51.<note place="margin">1 Cor. 15.51</note> All others muſt die, according to the Decree and Appointment of God. So that unleſs the Day of Judgment be nearer than it is reaſona<g ref="char:EOLhyphen"/>ble to imagine, we muſt expect to take up our Lodgings in Graves and Tombs, tho ſanctified, tho ſerving our Generation by the Will of God; and how much ſoever others may need us, our Diſſolution is coming: But this is our Comfort, that living in the Lord, we ſhall die in the Lord; and Death ſhall be our Advantage, tho we cannot be priviledged from it.</p>
+            <p n="3">III. Obſerve, That tho ſincere Chriſtians are
+<pb n="12" facs="tcp:63541:11"/>not exempted from dying, yet Death is qualified and ſoftned to them: To them it is but a Sleep, or but as a Sleep.</p>
+            <p n="1">1. In reſpect to their Bodies, it is a Reſt from Pain, Sickneſs, Wearineſs, Labour, Noiſe and Diſturbance. The Grave is their Bed, they are quiet in it, and never diſturbed of that Reſt, till awakned with the joyful ſolemn Sound of the laſt Trump, and the Voice of the Arch-Angel,<note place="margin">1 Theſſ. 4.16</note> and the Shout attending our Lord's laſt Appearing, 1 <hi>Theſſ.</hi> 4.16.</p>
+            <p n="2">2. In reſpect of their Souls; tho Death is not a Sleep, as Sleep ſignifies an unactive Reſt, yet Death puts the Souls of the Godly into better than a Sleep, into a perfect Repoſe and ceſſation from all Toil, and into a State of moſt active Love and Joy: for Angels come and carry them, upon their diſlodging from their Bodies, into <hi>Abraham</hi>'s Boſom, to the Spirits of juſt Men made perfect, into the third Heaven. And whereas good Men complain while they are here, that they can neither love nor joy in God as they deſire, Infirmities impeding and ſtrait<g ref="char:EOLhyphen"/>ning the willing Mind; there they love God to the utmoſt of their Duty, to the full extent of their Capacity, and according to all the deſire of their Hearts: And in like manner they there
+<pb n="13" facs="tcp:63541:11"/>joy in God, without any Impediment to that raviſhing Exerciſe.</p>
+            <p n="3">3. Death to ſincere Chriſtians is but a Sleep, in reſpect of the ſucceeding Morning of the Re<g ref="char:EOLhyphen"/>ſurrection. In this reſpect <hi>Death</hi> is but a long Sleep, as Sleep is a ſhort Death. And tho the Death of the Ungodly may alſo be termed a Sleep, yet not in the qualification, and ſoftneſs of its meaning, reſpecting ſincere Chriſtians: For the Ungodly have no Reſt in their Souls up<g ref="char:EOLhyphen"/>on their Departure, but Extremities of Grief and Horror: And the Morning of the Reſur<g ref="char:EOLhyphen"/>rection brings them no manner of Comfort, but proves moſt dreadful to them.</p>
+            <p>But to ſincere Chriſtians Death is as a ſweet Sleep, out of which they awake joyfully: And upon the ſounding of the Trumpet, their Graves open, they throw off the duſty Covering, riſe up, and put on the Dreſs of Immortality, and go forth and meet the Bridegroom, and are ever with the Lord.</p>
+            <p>Such are the Inſtructions from the Text. The Improvement follows in ſeveral Uſes.</p>
+            <p>
+               <hi>Firſt;</hi> Since ſincere Chriſtians arc honoured with the Title of the Friends of Chriſt, let us all become ſincere Chriſtians, let us anſwer that great, holy and glorious Name by which we
+<pb n="14" facs="tcp:63541:12"/>are called, not ſerving Sin and Satan in the Li<g ref="char:EOLhyphen"/>very of Chriſt's Diſciples. Let us live agreea<g ref="char:EOLhyphen"/>bly to our ſacred Name and Profeſſion; let us fill up the Title of Chriſtians with the Quality, and Temper, and Practice becoming them that are ſo called: Let us think, ſpeak, act, pray, and live as Chriſtians; as ſuch let us be Peni<g ref="char:EOLhyphen"/>tent, Holy, Humble, Charitable, Lovers of God and Men, Temperate, Chaſte, Mortified and Heavenly-minded: Let us caſt away all the Works of Darkneſs, and renounce the hidden things of Diſhoneſty, and ſerve God in Holi<g ref="char:EOLhyphen"/>neſs and Righteouſneſs, in cleanneſs of Hands, and purity of Heart, mortifying the moſt ſecret Sins and ſpiritual Wickedneſſes, of which the World can take no notice.</p>
+            <p>But it may be ſaid, Who is ſufficient for theſe things? we want power to live the holy Life that becomes our Chriſtian Profeſſion. My Anſwer to this is, May you be more fully con<g ref="char:EOLhyphen"/>vinced of your Impotency: but withal, remem<g ref="char:EOLhyphen"/>ber, God can draw you, Chriſt can ſtrengthen you, and the Holy Spirit can influence, change and renew you. Look up to Heaven; pray, plead, importune God for Supplies of needful Grace; and wait for it in the ſedulous uſe of the appointed Means of reading and hearing the
+<pb n="15" facs="tcp:63541:12"/>Word of Grace and Life, and meditating therein. It is worthy of the utmoſt Endeavours, and you will not repent of any Labour it can coſt you, when once you have attained to ſerious Godli<g ref="char:EOLhyphen"/>neſs; for the Friendſhip of Chriſt attends it, and Happineſs enough is included in his Love, who hath all Power in Heaven and Earth.</p>
+            <p>
+               <hi>Secondly;</hi> Since real Chriſtians are the Redee<g ref="char:EOLhyphen"/>mer's Friends, and ſince the Death of ſincere Chriſtians is qualified, and only as a Sleep, let as many of us as are Chriſtians in Reality and Practice, be reconciled to Death, and not be uneaſy under the expectation of it: Let us raiſe our Faith, and diſmiſs our Fears, believing there is no harm to us in Death: It is but the Sleep of a long Night, and then comes a Morning; the Day breaks, and the Shadows flee away, and our Beloved leads us to the Mountains of Spices.<note place="margin">Cant. 8.14.</note>
+            </p>
+            <p>Let us conſider, Death cannot prejudice us, be<g ref="char:EOLhyphen"/>ing bleſt with Chriſt's Friendſhip; for hereupon, Death is ours. The Spirit of God, by the Apo<g ref="char:EOLhyphen"/>ſtle's Hand, hath put Death it ſelf into the In<g ref="char:EOLhyphen"/>ventory of our Goods and Bleſſings, 1 <hi>Cor.</hi> 3.21, 22. <hi>All things are yours, whether</hi> Paul, <hi>or</hi> Apollo,<note place="margin">1 Cor. 3.21, 22.</note> 
+               <hi>or</hi> Cephas, <hi>or the World, or Life, or Death.</hi>
+            </p>
+            <p>And whereas Death parts us from our Friends here, that Wound is preſently healed by its bring<g ref="char:EOLhyphen"/>ing
+<pb n="16" facs="tcp:63541:13"/>us to Chriſt our high and everlaſting Friend, according to theſe Scriptures, 2 <hi>Cor.</hi> 5.8. <hi>Abſent from the Body,</hi>
+               <note place="margin">2 Cor. 5.8.</note> 
+               <hi>and preſent with the Lord.</hi> Phil. 1.23. <hi>Having a deſire to depart,</hi>
+               <note place="margin">Phil. 1.23.</note> 
+               <hi>and to be with Chriſt.</hi> Luk. 23.43.<note place="margin">Luke 23.43.</note> 
+               <hi>To day ſhalt thou be with me in Paradiſe.</hi>
+            </p>
+            <p>Death is indeed a Violence upon Nature; and at firſt ſight we cannot but decline it as unnatu<g ref="char:EOLhyphen"/>ral to our primitive Conſtitution, a Fruit of Sin, and a mighty Humiliation and Abaſement of one part of us; for it carries our Bodies under the Earth, and makes them a Prey to the vile Worms, and renders them noiſom to the Living, who convey them thither in their own defence. But our Relation to Chriſt qualifies all this, turning the Grave into a Bed, and Death into a ſweet Repoſe.</p>
+            <p>
+               <hi>Thirdly;</hi> Since Death is thus qualified to the Friends of Chriſt, let us examine whether we are the Friends of our Lord and Saviour. Many preſume it, and are Strangers and Enemies to him in effect, (and by juſt Interpretation) inſtead of being in a League of Friendſhip with him. And ſome fear they are not his Friends, who are ſurely in his Favour. And this makes it neceſ<g ref="char:EOLhyphen"/>ſary that we paſs an Inqueſt upon our ſelves; and I ſhall aſſiſt it, by anſwering two Queſtions, Who are not, and who are the Friends of Chriſt?</p>
+            <pb n="17" facs="tcp:63541:13"/>
+            <p>Queſt. 1. <hi>Who are not the Friends of Chriſt?</hi> And to this I reply in the following Particulars.</p>
+            <p n="1">1. Scorners of Piety and Holineſs are none of his Friends. They that walk in the Counſel of the Ungodly, and ſit in the Seat of the Scorn<g ref="char:EOLhyphen"/>ful, having a rank Enmity againſt Religion, and the Power of Godlineſs, are no Friends of the Redeemer, <hi>who gave himſelf for us,</hi>
+               <note place="margin">Titus 2.14.</note> 
+               <hi>to redeem us from all Iniquity, and to purify to himſelf a peculiar People zealous of good Works,</hi> Titus 2.14.</p>
+            <p>Scoffers at Holineſs, holy Perſons, and holy Things, cannot find Favour with him that is holy, harmleſs, undefiled, and ſeparate from Sinners.</p>
+            <p>It is marvellous and aſtoniſhing, that any Men (eſpecially making any Profeſſion of the Chriſtian Faith) ſhould ſink ſo deep into Pro<g ref="char:EOLhyphen"/>faneneſs, as to put a Scorn upon religious, holy Practiſes, and pious Exerciſes: But Hell and Earth together do breed ſuch Monſters. Origi<g ref="char:EOLhyphen"/>nal Sin, blown up by Satan's Arts, the Venom of the old Serpent put to the native Depravati<g ref="char:EOLhyphen"/>on of humane Nature, produces this prodigious Birth, <hi>viz.</hi> a Scorner of holy Things. But ſuch have certainly no Alliance or Friendſhip with him that taught Holineſs, and lived it to Perfe<g ref="char:EOLhyphen"/>ction. Such may be ſecure through a mighty
+<pb n="18" facs="tcp:63541:14"/>hardneſs of Heart, and God's giving them up to a blindneſs of Mind; but their Deſtruction was foretold very early: Enoch <hi>the ſeventh from</hi> Adam,<note place="margin">Jude, <hi>ver.</hi> 14,15.</note> 
+               <hi>popheſied of theſe, ſaying, Behold, the
+Lord cometh with ten thouſands of his Saints, to execute Judgment upon all, and to convince all that are un<g ref="char:EOLhyphen"/>godly among them, of all their ungodly Deeds which they have ungodly committed; and of all their hard Speeches which ungodly Sinners have ſpoken againſt him.</hi> Jude, <hi>ver.</hi> 14, 15.</p>
+            <p n="2">2. Such as have only an Out-ſide of Religi<g ref="char:EOLhyphen"/>on, and not that of the hidden Man of the Heart, are none of Chriſt's Friends: For all the Churches ſhall know he ſearches the Heart, and tries the Reins. His piercing Eye ſeeth the Rottenneſs within the painted Sepulchres; and he will unmask all <hi>Hypocrites,</hi> and favours only <hi>Iſraelites</hi> indeed, and without Guile.</p>
+            <p>If Men content themſelves only with repeat<g ref="char:EOLhyphen"/>ing the Creed, and a bare attendance upon Di<g ref="char:EOLhyphen"/>vine Ordinances, with the Shadow of Religion inſtead of inward Mortification, and real God<g ref="char:EOLhyphen"/>lineſs, they are not accepted with him, that knows what is in Man.</p>
+            <p>To them that have only ſhining Lamps of Profeſſion, he will ſay, Depart from me, ye Workers of Iniquity, tho they could propheſy
+<pb n="19" facs="tcp:63541:14"/>in his Name, and in it do wonderful, <hi>i. e.</hi> mi<g ref="char:EOLhyphen"/>raculous Works.</p>
+            <p>There is nothing more apparently caution'd againſt in the Scriptures, than this depending upon the external part of Religion, with a neg<g ref="char:EOLhyphen"/>lect of the inward ſubſtantial things of it: <hi>Rom.</hi> 2.28.<note place="margin">Rom. 2.28.</note> 
+               <hi>He is not a Jew that is one outwardly, nei<g ref="char:EOLhyphen"/>ther is that Circumciſion that is outward in the Fleſh.</hi> And it is equally true, he is not a Chriſtian that is one outwardly only, nor is that Baptiſm ſuffi<g ref="char:EOLhyphen"/>cient that is only upon the Fleſh.</p>
+            <p>Be not deceived, God is not mocked; God will render to Men according to their Works.</p>
+            <p n="3">3. They who take any part of Religion for the whole, are none of Chriſt's Friends. Some are ſober, and ſober only; and ſome are ſober, and morally righteous, and make a great Figure in a debauch'd Generation: but they are not ſober, and righteous, and godly. Such partial Chriſtians will not be favoured by the impartial Judg: he reſpects none but them that have a ſincere Reſpect to all his Commands. Almoſt Chriſtians can be but almoſt happy: And they that are not far from the Kingdom of God, if they advance no farther in Religion, will have their Portion with Hypocrites.</p>
+            <p>
+               <hi>Secondly,</hi> The other Queſtion is, <hi>Who are the
+<pb n="20" facs="tcp:63541:15"/>Friends of Chriſt?</hi> And the Anſwer is, They that ſincerely keep his Commands. <hi>He that hath my Commands,</hi>
+               <note place="margin">John 14.21.</note> 
+               <hi>and keeps them, he it is that loves me, and I will love him,</hi> John 14.21. They alſo that delight in the Ordinances of his Worſhip, and love his People, and Intereſt, and his Appearing, ſaying, Come, Lord Jeſus, come quickly; who live by the Faith of the Son of God, and deſire to know nothing comparatively but Chriſt and him crucified, counting all things Loſs for the Excellency of the knowledg of Chriſt: And they that imitate him in living a holy Life; theſe, and theſe only, are the <hi>Redeemer's</hi> Friends. The reſt are as yet his Enemies, and will not that he ſhould reign over them.</p>
+            <p>And now let us inquire diligently of which Number we are, whether Friends or Enemies to Chriſt? It is time to make this Scrutiny: Death is coming, the pale Meſſenger is on his way, and drawing near. The Funerals which we frequently attend, are a loud Warning of our approaching Change. And if a little Time will launch us into an Eternity, 'tis Wiſdom to obtain the Reſolution of this <hi>Queſtion</hi> ſpeedily, whether we are the Friends of Chriſt or not?</p>
+            <p>And now having diſcourſed the Obſervations
+<pb n="21" facs="tcp:63541:15"/>from the Text, and directed the Improvement of them, that which remains, is to accommo<g ref="char:EOLhyphen"/>date the Words of the Text more particularly to our ſolemn Occaſion, and to our deceaſed Brother and Friend. And,</p>
+            <p n="1">1. Our Friend, and our Lord's Friend, ſleeps, or plainly ſpeaking, is dead; but it is qualified and ſoftned to him and his Friends: his Death is but as a Sleep; he ſleeps in Jeſus, and will awake again, and put on Immortality.</p>
+            <p n="2">2. Our Friend ſleeps; he was not priviledg'd from dying: Neither his Parts; nor Graces, nor his Knowledg and Learning, nor his Uſeful<g ref="char:EOLhyphen"/>neſs, and Endearedneſs to his Relations and Acquaintance, nor yet the Love and Prayers of his Friends, could exempt him from the Stroke of Death. God had ſet him his Bounds of being active and patient. He hath ſerved his Generation by the Will of God, and is fal<g ref="char:EOLhyphen"/>len aſleep.</p>
+            <p n="3">3. Our Friend, and a Friend of no ordina<g ref="char:EOLhyphen"/>ry Character, ſleeps in the Arms of Death, and better, in the Boſom of Chriſt: A Citizen of no mean City, the Heavenly <hi>Jeruſalem;</hi> a Man of no common Qualifications, eminent in Parts, in Learning, and in Piety; not of the <hi>Laodi<g ref="char:EOLhyphen"/>cean</hi> Temper, nor of the <hi>Sardian</hi> Complexion,
+<pb n="22" facs="tcp:63541:16"/>but ſtrictly holy, and having a Zeal for God and Religion, (the deſpighted thing in this crooked Generation) great in Wiſdom, Pru<g ref="char:EOLhyphen"/>dential, of much Moderation, abounding in Charity, a Lover of God and Men, full of Faith, and of the Holy Ghoſt, full of Alms<g ref="char:EOLhyphen"/>deeds, filled with great Meaſures of Grace from the Fulneſs of Chriſt; one that had a clear Head, and a warm Heart; who underſtood and lived the Goſpel; a Pattern of Goodneſs, a Bleſſing to his Acquaintance, and an Orna<g ref="char:EOLhyphen"/>ment to his Family.</p>
+            <p>All this he was in his Life and Health; and in his Sickneſs theſe things were very conſide<g ref="char:EOLhyphen"/>rable in him. God made him exemplary in Patience, filled him with Peace, and rendred him a mighty Pattern of the moſt eminent and moſt deſirable things under Heaven, <hi>i. e.</hi> a long<g ref="char:EOLhyphen"/>ing for Death, not merely to be delivered from an Uneaſe, but upon the hope of paſſing into everlaſting Reſt and Joy. He waited for Death, as <hi>Siſera</hi>'s Mother for him, <hi>Judg.</hi> 5.28. ſaying, <hi>Why is his Chariot ſo long incoming?</hi>
+               <note place="margin">Judg. 5.28.</note> 
+               <hi>Why tarry the Wheels of his Chariots?</hi>
+            </p>
+            <p n="4">4. Our Friend ſleeps, a Friend in no or<g ref="char:EOLhyphen"/>dinary Station, a Miniſter of the Everlaſting Goſpel of the Bleſſed God; a Steward of the
+<pb n="23" facs="tcp:63541:16"/>ſacred Myſteries; one of Heaven's Heraulds; an Ambaſſador for Chriſt; a careful Shepherd; a faithful Watchman; a Preacher of Righte<g ref="char:EOLhyphen"/>ouſneſs; and in preaching, clear, judicious, fervent; driving the bleſſed Deſign of promo<g ref="char:EOLhyphen"/>ting both Faith and Godlineſs; and able Miniſter of the New Teſtament.</p>
+            <p>And in this Province he ſhined very open<g ref="char:EOLhyphen"/>ly, while Laws permitted him; and when that Protection failed, this Light was unhap<g ref="char:EOLhyphen"/>pily obſcured from publick View; I ſay, un<g ref="char:EOLhyphen"/>happily; for it had been alone worth an Act of Comprehenſion, to have included this one ſo valuable a Man.</p>
+            <p>What ſhall I more ſay? He was worthy (God made him ſo) of his Name and Family, (a Family that hath had an eminent Share of Piety, Learning and Ingenuity) worthy of the Friendſhip of all that knew him, and knew the Value of Goodneſs, mixed with Parts and Erudition. And may there be now an <hi>Eliſha</hi> for the Spirit of this Prophet to reſt upon, among the Sons of the Prophets.</p>
+            <p>Such was our Friend that ſleeps, whoſe
+<pb n="24" facs="tcp:63541:17"/>Faith, Holineſs and Patience, Love and Zeal, let us follow; that as he did, we may live and die in the Lord, and may with him, living and dying, be found among the Friends of Chriſt, our bleſſed, glorious and merciful Redeemer.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
